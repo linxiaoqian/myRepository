@@ -1,1 +1,3 @@
-nihaoa fsdf
+public class
+{
+}
